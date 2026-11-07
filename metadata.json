@@ -1,0 +1,6 @@
+{
+  "name": "StreamX Live",
+  "description": "Next-gen live streaming platform with real-time video, interactive live chat, virtual gifts & creator monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
